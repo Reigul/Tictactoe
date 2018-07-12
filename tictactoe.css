@@ -1,0 +1,39 @@
+table {
+    margin: auto;
+    border-collapse: collapse;
+    border-color: transparent;
+}
+
+td {
+    text-align: center;
+    margin: auto;
+    background-color: black;
+    font-size: 80px;
+    color: white;
+}
+
+#game_status {
+    font-size: 35px;
+    color: black;
+    text-align: center;
+}
+
+.background_img {
+    background-repeat: repeat;
+    background-size: 100%;
+    background-image: url("Background.png");
+}
+
+header {
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+
+footer {
+    margin: auto;
+    background-color: white;
+    text-align: center;
+}
